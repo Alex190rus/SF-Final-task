@@ -8,3 +8,5 @@ new test
 "new line" 
 "one more line adding" 
 "new line" 
+
+working by receiving new skill
